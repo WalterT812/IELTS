@@ -1,0 +1,36 @@
+| Word          |               |                |                |
+| ------------- | ------------- | -------------- | -------------- |
+| nutmeg        | myristica     | native         | spice          |
+| thickly       | dense         | foliage        | tough          |
+| oval          | pale          | encased        | fleshy         |
+| husk          | ripe          | halves         | ridge          |
+| shiny         | lacy          | crimson        | aril           |
+| mace          | dried         | ingredient     | prized         |
+| costly        | cuisine       | flavouring     | medicinal      |
+| preservative  | agent         | throughout     | exlusive       |
+| importers     | revealed      | commodity      | dominance      |
+| protuguese    | neighbouring  | spain          | subcontracting |
+| commercial    | dutch         | fleet          | swiftly        |
+| netherlands   | gained        | northern       | fell           |
+| soared        | corporation   | private        | contagious     |
+| disease       | desperate     | willing        | spare          |
+| expense       | pennies       | sultans        | maintaining    |
+| neutral       | insisted      | trading        | presence       |
+| troops        | soil          | invaders       | securely       |
+| investment    | concentrated  | guarded        | uprooting      |
+| seedling      | proper        | authority      | severely       |
+| lime          | obstacle      | domination     | sliver         |
+| compromise    | settlement    | treaty         | intent         |
+| securing      | distant       | monopoly       | smuggled       |
+| thrived       | volcanic      | eruption       | tsunami        |
+| wipe          | grove         | force          | seize          |
+| transplanting | estimate      | tonnes         | statements     |
+| contradicts   | major         | demand         | restricted     |
+| production    | cultivated    | obtained       | secretly       |
+| plantations   | automotive    | sector         | adapting       |
+| automation    | manufacturing | implementation | robotic        |
+| onwards       | significant   | mass           | horizon        |
+| capabilities  | limited       | contributions  | assistance     |
+| pace          | progress      | field          | gather         |
+| advancing     | frequently    | cited          | motive         |
+
