@@ -1,4 +1,1 @@
-
-
-dissertation	thesis	questionnaire	analytical	ambition	ambitious	well-organized	respondent	illustration	laser	survey conducted	research findings	theoretical	whiteboard	overhead	audio	audio-visual	audience	finding	strategy	summary	summarize	scientific	extensive writing	extensive educational	subject access guide	under different subjects	survey done on a regular basis	research opportunities	exchange draft	outline	 theme of project	starter project	slide presentation	theoretical background	offer further training	therapy method	assessment method	postal survey	research approach	key approach	focus on approach	learning strategies	marketing strategies	listening tapescript	scientific approach
-
+taxi	jargon	theory	therapist	therapy	thesis	thieves	threat	thriller	tide	tides	toaster	tomato	tour	touring	tourism	tourist	towel	tractor	tragedy	trailer	trend	travel	traveller	treatment	tribe	Trinity	trouble	tunnels	tuition	umpire	utensil	vacancy	particulars	variety	vegetable	velvet	vet	village	vinegar	visa	vitamin	waist	world	warming	washing	wave	wax	wealth	weeds	weight	welfare	west	whale	wheel	width	willows	wound	youth
